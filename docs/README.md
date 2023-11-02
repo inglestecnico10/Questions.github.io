@@ -79,7 +79,7 @@
             <div class="options">
                 <label><input type="radio" name="q1" value="a"> a. CPU</label>
                 <label><input type="radio" name="q1" value="b"> b. RAM</label>
-                <label><input type="radio" name="q1" value="c"> c. Hard drive *</label>
+                <label><input type="radio" name="q1" value="c"> c. Hard drive</label>
             </div>
         </div>
 
@@ -87,7 +87,7 @@
             <p>Question 2: Which of the following options best describes the function of a motherboard?</p>
             <div class="options">
                 <label><input type="radio" name="q2" value="a"> a. Processes data and runs programs.</label>
-                <label><input type="radio" name="q2" value="b"> b. Connects all computer components and facilitates communication between them. *</label>
+                <label><input type="radio" name="q2" value="b"> b. Connects all computer components and facilitates communication between them.</label>
                 <label><input type="radio" name="q2" value="c"> c. Stores files and applications.</label>
             </div>
         </div>
@@ -96,7 +96,7 @@
             <p>Question 3: What device is essential for audio output on a computer?</p>
             <div class="options">
                 <label><input type="radio" name="q3" value="a"> a. Monitor</label>
-                <label><input type="radio" name="q3" value="b"> b. Speakers *</label>
+                <label><input type="radio" name="q3" value="b"> b. Speakers</label>
                 <label><input type="radio" name="q3" value="c"> c. Keyboard</label>
             </div>
         </div>
@@ -105,7 +105,7 @@
             <p>Question 4: What type of memory is used to store data and programs temporarily while the computer is powered on?</p>
             <div class="options">
                 <label><input type="radio" name="q4" value="a"> a. Hard drive</label>
-                <label><input type="radio" name="q4" value="b"> b. RAM *</label>
+                <label><input type="radio" name="q4" value="b"> b. RAM</label>
                 <label><input type="radio" name="q4" value="c"> c. CPU</label>
             </div>
         </div>
@@ -114,7 +114,7 @@
             <p>Question 5: Which component is responsible for cooling the CPU in a computer?</p>
             <div class="options">
                 <label><input type="radio" name="q5" value="a"> a. Power supply</label>
-                <label><input type="radio" name="q5" value="b"> b. CPU fan *</label>
+                <label><input type="radio" name="q5" value="b"> b. CPU fan</label>
                 <label><input type="radio" name="q5" value="c"> c. Hard drive</label>
             </div>
         </div>
@@ -123,7 +123,7 @@
             <p>Question 6: What part of the computer provides electrical power to all components?</p>
             <div class="options">
                 <label><input type="radio" name="q6" value="a"> a. Motherboard</label>
-                <label><input type="radio" name="q6" value="b"> b. Power supply unit *</label>
+                <label><input type="radio" name="q6" value="b"> b. Power supply unit</label>
                 <label><input type="radio" name="q6" value="c"> c. CPU</label>
             </div>
         </div>
@@ -133,7 +133,7 @@
             <div class="options">
                 <label><input type="radio" name="q7" value="a"> a. Stores graphic files.</label>
                 <label><input type="radio" name="q7" value="b"> b. Processes complex mathematical calculations.</label>
-                <label><input type="radio" name="q7" value="c"> c. Generates images on the screen and accelerates graphics in games and applications. *</label>
+                <label><input type="radio" name="q7" value="c"> c. Generates images on the screen and accelerates graphics in games and applications.</label>
             </div>
         </div>
 
@@ -141,7 +141,7 @@
             <p>Question 8: What device is used to input data into a computer by moving it on a flat surface?</p>
             <div class="options">
                 <label><input type="radio" name="q8" value="a"> a. Monitor</label>
-                <label><input type="radio" name="q8" value="b"> b. Mouse *</label>
+                <label><input type="radio" name="q8" value="b"> b. Mouse</label>
                 <label><input type="radio" name="q8" value="c"> c. Keyboard</label>
             </div>
         </div>
@@ -151,7 +151,7 @@
             <div class="options">
                 <label><input type="radio" name="q9" value="a"> a. CPU</label>
                 <label><input type="radio" name="q9" value="b"> b. RAM</label>
-                <label><input type="radio" name="q9" value="c"> c. Data storage *</label>
+                <label><input type="radio" name="q9" value="c"> c. Data storage</label>
             </div>
         </div>
 
@@ -159,7 +159,7 @@
             <p>Question 10: What type of memory is volatile and is erased when the computer is turned off?</p>
             <div class="options">
                 <label><input type="radio" name="q10" value="a"> a. Hard drive</label>
-                <label><input type="radio" name="q10" value="b"> b. RAM *</label>
+                <label><input type="radio" name="q10" value="b"> b. RAM</label>
                 <label><input type="radio" name="q10" value="c"> c. CPU</label>
             </div>
         </div>
@@ -167,7 +167,7 @@
         <div class="question">
             <p>Question 11: What type of connector is used to attach peripherals like printers and cameras to a computer?</p>
             <div class="options">
-                <label><input type="radio" name="q11" value="a"> a. USB *</label>
+                <label><input type="radio" name="q11" value="a"> a. USB</label>
                 <label><input type="radio" name="q11" value="b"> b. HDMI</label>
                 <label><input type="radio" name="q11" value="c"> c. VGA</label>
             </div>
@@ -178,7 +178,7 @@
             <div class="options">
                 <label><input type="radio" name="q12" value="a"> a. Sound card</label>
                 <label><input type="radio" name="q12" value="b"> b. Motherboard</label>
-                <label><input type="radio" name="q12" value="c"> c. Graphics card *</label>
+                <label><input type="radio" name="q12" value="c"> c. Graphics card</label>
             </div>
         </div>
 
